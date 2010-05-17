@@ -1,4 +1,4 @@
-Clickable Table Rows
+ClickableTableRows
 ===========
 
 Very small plugin to make table rows clickable. Will find the first link within the row (with the designated class) and direct the user to its target location. If the user clicks on a link directly within the row the plugin will not interfere with this.
