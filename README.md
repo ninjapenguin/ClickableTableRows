@@ -5,7 +5,7 @@ Very small plugin to make table rows clickable. Will find the first link within 
 
 Optionally adds a class to the table if the plugin successfully attaches to a table so you can style the rows alternatively
 
-![Screenshot](http://ninjapenguin.co.uk/blog/wp-content/themes/ninjapenguin/images/np-ban.gif)
+![Screenshot](http://github.com/ninjapenguin/ClickableTableRows/raw/master/Images/ctr.png)
 
 How to use
 ----------
